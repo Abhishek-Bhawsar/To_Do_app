@@ -102,7 +102,7 @@ const NewTaskList = ({ setEditTaskId, setTask }) => {
           }}
         >
           <Typography variant="body1">
-            No tasks yet. Add a new task to get started!
+            No tasks found
           </Typography>
         </Box>
       )}
